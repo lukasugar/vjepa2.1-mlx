@@ -1,0 +1,10 @@
+references/
+.DS_Store
+.venv/
+.python-version
+.pytest_cache/
+.ruff_cache/
+__pycache__/
+*.egg-info/
+*.pyc
+.artifacts/
