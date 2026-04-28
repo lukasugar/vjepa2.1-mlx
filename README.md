@@ -9,7 +9,7 @@ The project focuses on encoder inference, parity checks, and benchmarking. It
 does not include V-JEPA pretraining, predictor training, or downstream training
 recipes.
 
-Check out the [blog post](https://hosting-cloudflare-worker.lukasugar.workers.dev/posts/porting_vjepa_to_mlx/) for more information.
+Check out the [blog post](https://www.sugarz.me/posts/porting_vjepa_to_mlx/) for more information.
 
 ## What Is Included
 
